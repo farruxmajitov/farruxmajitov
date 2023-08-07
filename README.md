@@ -8,4 +8,7 @@
 <code><img src="https://shadowblood.gallerycdn.vsassets.io/extensions/shadowblood/tailwind-moon/3.0.2/1673948732518/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></code>
 <code><img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" width="30px"></code>
 <code><img src="https://miro.medium.com/v2/resize:fit:500/1*cPh7ujRIfcHAy4kW2ADGOw.png" width="30px"></code>
+<code><img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" width="30px"></code>
+<code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="30px"></code>
+<code><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></code>
 
